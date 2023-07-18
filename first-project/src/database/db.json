@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Yogendar Singh",
+      "username": "Paladian",
+      "email": "pladian45@gmail.com",
+      "phone": "898989",
+      "id": 1
+    },
+    {
+      "name": "Eshu Thakurathi",
+      "username": "Eshuu",
+      "email": "dev@gmail.com",
+      "phone": "9789736637",
+      "id": 3
+    }
+  ]
+}
